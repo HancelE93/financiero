@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 import com.krakedev.financiero.entidades.Cliente;
 import com.krakedev.financiero.entidades.Cuenta;
 
-public class TestPruebaIA {
+public class TestPruebaCrearCuentaIA {
 	@Test
     public void testCrearCuentasConsecutivas() {
 
