@@ -45,7 +45,7 @@ public class Cliente {
 	}
 	
 	
-	public void imprimir() {
+	private void imprimir() {
 		String mensaje;
 		mensaje = "Cedula: " + cedula + ", Nombre: " + nombre + ", apellido: " + apellido;
 		System.out.println(mensaje);
